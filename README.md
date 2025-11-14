@@ -6,5 +6,6 @@ A simple website built using HTML and CSS to help students choose a suitable pro
 3. Services
 4. Clean footer
 
-5. #Demo link
-6. click here(https://127.0.0.1:5501/index.html)
+ #Demo link
+ 
+ click here(https://127.0.0.1:5501/index.html)
