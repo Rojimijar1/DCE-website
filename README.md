@@ -27,7 +27,7 @@ A modern and user-friendly platform designed to provide students with access to 
 ```bash
 DCE-Website/
 │
-├── index.html
+├── new.html
 ├── style-wrapper.css
 ├── script.js
 ├── assets/
@@ -44,10 +44,8 @@ The main goal of this project is to create a centralized platform where students
 
 ## 📸 Screenshots
 
-Add screenshots of your website here.
-
 ```markdown
-![Home Page](/images/homepage.png)
+![Home Page](Images/dcee.png)
 ```
 
 ---
