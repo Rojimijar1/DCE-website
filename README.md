@@ -44,9 +44,7 @@ The main goal of this project is to create a centralized platform where students
 
 ## 📸 Screenshots
 
-```markdown
 ![Home Page](Images/dcee.png)
-```
 
 ---
 
@@ -76,7 +74,7 @@ Contributions, suggestions, and feedback are always welcome.
 Developed by **Roji Mijar**
 
 * GitHub: [https://github.com/your-username](https://github.com/Rojimijar1)
-* LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+* LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/roji-mijar-167837396/)
 
 ---
 
